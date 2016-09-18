@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Bot\\": "src/Bot"
+        }
+    },
+    "require": {
+        "longman/telegram-bot": "^0.35.0"
+    }
+
+}
